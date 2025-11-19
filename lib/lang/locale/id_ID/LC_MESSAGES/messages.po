@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Senayan3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-29 18:51+0700\n"
-"PO-Revision-Date: 2023-05-29 18:51+0700\n"
+"PO-Revision-Date: 2025-11-19 13:15+0700\n"
 "Last-Translator: Arif Syamsudin Budi W. <buitenzorg812@yahoo.com>\n"
 "Language-Team: Arie Nugraha; Hendro Wicaksono; Wardiyono <dicarve@yahoo.com; "
 "hendrowicaksono@yahoo.com; wynerst@gmail.com>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_ngettext:1,2\n"
 "X-Poedit-Basepath: ../../../../..\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: admin/AJAX_check_id.php:21
@@ -10244,7 +10244,7 @@ msgstr ""
 
 #: template/default/parts/_home.php:97
 msgid "Top reader of the year"
-msgstr "Penikmat Koleksi tahun ini"
+msgstr "Pembaca teratas tahun ini"
 
 #: template/default/parts/_home.php:99
 msgid ""
